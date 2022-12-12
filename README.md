@@ -1,4 +1,4 @@
-# Stack Postfix Converter
+# ADT Stack Postfix Converter
 
 This project implements a stack interface and stack class to handle operators of the infix expressions. Infix expressions are loaded from a string array. It does not currently allow the user to enter
 infix expressions. The program outputs the current infix expression being converted and the resulting postfix expression.
